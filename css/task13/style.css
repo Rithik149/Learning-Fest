@@ -1,0 +1,22 @@
+p{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 0;
+    padding-top: 0;
+    height: 100px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.box{
+    border: groove;
+    height: 140px;
+    width: 180px;
+}
+.container1{
+    display: flex;
+    justify-content: center;
+    gap: 400px;
+}

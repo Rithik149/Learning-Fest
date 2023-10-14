@@ -1,0 +1,21 @@
+#first{
+    border: 3px solid red;
+    border-radius: 25px;
+    width: 600px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 5px;
+}
+#second{
+    border: 3px solid red;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    width: 600px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 5px;
+}
